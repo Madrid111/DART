@@ -1,0 +1,5 @@
+void main () {
+for (var char in 'hello'.split('')) {
+print (char);
+}
+}
